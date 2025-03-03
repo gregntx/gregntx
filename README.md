@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Greg Newton
-- 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on writing smart contracts after I get more knowledge
-- 📫 How to reach me: greg@artheonsolutions.com
+- 👀 I’m interested in logik.io and kBridge development
+- 🌱 I’m currently learning front end development
+
+
 
 <!---
 gregntx/gregntx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
